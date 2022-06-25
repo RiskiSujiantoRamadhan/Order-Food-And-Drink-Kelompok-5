@@ -3,7 +3,7 @@ Order Food and Drink merupakan aplikasi mobile yang bertujuan untuk memesan maka
 Untuk menjalankan file ini silahkan download file zip yang tersedia diatas.
 
 ## Nama Anggota :
-1. Karina Adityas Ramadhanti
-2. Riski Sujianto Ramadhan
-3. Satria Sapta Nugraha
+1. Karina Adityas Ramadhanti  2017051041
+2. Riski Sujianto Ramadhan    2017051084
+3. Satria Sapta Nugraha       2017051022
 
